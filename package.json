@@ -1,0 +1,16 @@
+{
+  "name": "triangle-tracker-testing",
+  "version": "1.0.0",
+  "description": "Practice with Webpack and Jest Testing",
+  "author": "Jamison Cozart",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
