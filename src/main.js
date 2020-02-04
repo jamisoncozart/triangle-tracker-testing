@@ -7,6 +7,6 @@ $(document).ready(function() {
     var side2 = $("#side2").val();
     var side3 = $("#side3").val();
     var triangle = new Triangle(side1, side2, side3);
-    console.log(triangle);  
+    $("#output").html(triangle.checkType());
   });
 });
